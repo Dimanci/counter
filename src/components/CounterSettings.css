@@ -1,0 +1,51 @@
+.settings {
+    margin: 25px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    border: 2px solid #7f1108;
+    border-radius: 15px;
+}
+
+.values {
+    font-weight: bold;
+    color: #6a0011;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    border: 2px solid #6a0900;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.maxValue {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    margin: 10px;
+
+}
+
+.startValue {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.settingsButton {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid #6a0900;
+    border-radius: 10px;
+    margin: 10px;
+}

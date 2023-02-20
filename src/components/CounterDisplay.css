@@ -1,0 +1,40 @@
+.display {
+    margin: 25px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    border: 2px solid #6a0900;
+    border-radius: 15px;
+
+}
+
+.counter {
+    height: 70px;
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #7f1108;
+    border: 1px;
+    border-style: outset;
+    border-radius: 10px;
+    color: #f5efaf;
+    margin: 20px;
+}
+
+.counterRed {
+    height: 70px;
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #7f1108;
+    border: 1px;
+    border-style: outset;
+    border-radius: 10px;
+    color: red;
+    margin: 20px;
+}
